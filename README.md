@@ -18,3 +18,8 @@ Install all python packages using the pip3 command.
 ## Getting Hardware Setup 
 
 Plug in the Camera into a USB-A
+
+## DEMOS
+
+Small scale car integration: https://www.youtube.com/watch?v=sZEBBxWU22o
+Lane Detection: https://www.youtube.com/watch?v=tkgWB8Q3JWg
